@@ -15,6 +15,7 @@ A simple CRUD (Create, Read, Update, Delete) application to manage students' dat
 **Frontend:**
 - React.js
 - Tailwind CSS
+- vite
 
 **Backend:**
 - Node.js
@@ -49,7 +50,7 @@ git clone https://github.com/yourusername/student-management-system.git
 ### Frontend Setup
 cd frontend
 npm install
-npm start
+npm run dev
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
